@@ -1,0 +1,27 @@
+h1{
+    font-size: 50px;;
+}
+.color-change{
+    color: blue;
+}
+section{
+    display: flex;
+}
+.lenghth1{
+    width: 50%;
+    padding-left: 7%;
+}
+.lenghth1 img{
+    width: 65%;
+}
+.know-more{
+    text-decoration: none;
+    background-image: linear-gradient(green, rgb(211, 8, 8));
+    padding: auto;
+    border-radius: 5px;
+    color: cornsilk;
+    font-weight: 700;
+}
+body{
+    margin: auto;
+}
